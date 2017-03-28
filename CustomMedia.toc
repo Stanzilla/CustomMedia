@@ -1,4 +1,4 @@
-﻿## Interface: 70100
+﻿## Interface: 70200
 
 ## Title: CustomMedia
 ## Notes: Das Salz in der Suppe!
@@ -6,7 +6,6 @@
 ## X-Credits: Your mum
 ## Version: 1.0
 ## X-Website: https://github.com/Stanzilla/CustomMedia
-## X-Email: staneck AT gmail DOT com
 ## X-Category: Interface Enhancements
 ## OptionalDeps: LibSharedMedia-3.0
 
