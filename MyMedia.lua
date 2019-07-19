@@ -14,7 +14,7 @@
     --SharedMedia:Register("background", "Starburst", "Interface\\Cooldown\\starburst")
     --SharedMedia:Register("background", "Ping4", "Interface\\Cooldown\\ping4")
     --SharedMedia:Register("background", "Glowstar", "Interface\\BUTTONS\\GLOWSTAR")
-   
+
 --border:
     SharedMedia:Register("border", "Hal Border", "Interface\\Addons\\CustomMedia\\Media\\Borders\\HalBorder")
     SharedMedia:Register("border", "SimpleSquare2", "Interface\\Addons\\CustomMedia\\Media\\Borders\\SimpleSquare2.blp")
@@ -22,7 +22,7 @@
     --SharedMedia:Register("border", "SeerahScalloped", [[Interface\Addons\CustomMedia\Media\Borders\SeerahScalloped.blp]])
     --SharedMedia:Register("border", "Hal Border2", "Interface\\Addons\\CustomMedia\\Media\\Borders\\HalBorder2")
     --SharedMedia:Register("border", "RothSquare", "Interface\\Addons\\CustomMedia\\Media\\Borders\\roth")
-    
+
 --font:
     --SharedMedia:Register("font", "You Rook Marbelous", "Interface\\Addons\\CustomMedia\\Media\\Fonts\\YouRookMarbelous.ttf")
     --SharedMedia:Register("font", "Avant Garde", "Interface\\Addons\\CustomMedia\\Media\\Fonts\\AvantGarde.ttf")
@@ -51,9 +51,10 @@
     SharedMedia:Register("font", "M+ Medium", "Interface\\Addons\\CustomMedia\\Media\\Fonts\\mplus-1mn-medium.ttf")
     --SharedMedia:Register("font", "Spy Agency", "Interface\\Addons\\CustomMedia\\Media\\Fonts\\spyagency.ttf")
     --SharedMedia:Register("font", "TwCenMT", "Interface\\Addons\\CustomMedia\\Media\\Fonts\\Tw_Cen_MT_Bold.ttf")
-            
+
 --sound:
-    SharedMedia:Register("sound", "Valkyr", "Sound\\Creature\\LichKing\\IC_Lich King_CallValkyr01.wav")
+    SharedMedia:Register("sound", "Valkyr", 554029)
+    SharedMedia:Register("sound", "Simon Tick", 568232)
 
 --statusbar:
     SharedMedia:Register("statusbar", "Hal A", [[Interface\Addons\CustomMedia\Media\StatusBars\HalA]])
