@@ -1,10 +1,11 @@
-## Interface: 80200
+## Interface: 100100
 
 ## Title: CustomMedia
 ## Notes: Das Salz in der Suppe!
 ## Author: Stanzilla
 ## X-Credits: Your mum
 ## Version: 1.0
+## IconTexture: 413575
 ## X-Website: https://github.com/Stanzilla/CustomMedia
 ## X-Category: Interface Enhancements
 ## OptionalDeps: LibSharedMedia-3.0
